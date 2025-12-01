@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dania Alkhadraa!</h2>
 <img align='right' src="https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg" width="200">
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></em> AI Enginner at <a href="https://lisan.ai">Lisan AI Company.</a></p>
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"></em> AI Enginner at AlphaAugmented.</a></p>
 <p><em><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="20"></em> Interested in mathematics, artificial Inteligence and data science.</p>
 
 **Languages and Tools:**  
